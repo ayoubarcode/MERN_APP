@@ -1,3 +1,6 @@
 author : ayoub arahmat
 
-Simple app with nodejs/express/Reactjs/monogodb
+contact app  using :
+    back end : node.js/express.js
+    fron end : Reactjs/
+    database  : mongodb 
